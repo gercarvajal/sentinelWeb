@@ -1,0 +1,303 @@
+[13-Oct-2023 21:52:01 America/Santiago] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 288
+[13-Oct-2023 21:52:02 America/Santiago] PHP Parse error:  syntax error, unexpected '$datos' (T_VARIABLE) in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 288
+[13-Oct-2023 21:52:44 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 289
+[13-Oct-2023 21:52:46 America/Santiago] PHP Parse error:  syntax error, unexpected ')' in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 289
+[13-Oct-2023 22:25:56 America/Santiago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home4/cge93624/public_html/sentinelWeb/pages/Editar_usuario.php on line 192
+[15-Oct-2023 21:31:36 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/adminuser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/adminuser.php on line 21
+[15-Oct-2023 21:35:29 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/adminuser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/adminuser.php on line 21
+[15-Oct-2023 21:37:42 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/adminuser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/adminuser.php on line 24
+[15-Oct-2023 21:48:03 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 12
+[15-Oct-2023 21:50:07 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 12
+[15-Oct-2023 21:50:15 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 12
+[15-Oct-2023 21:53:11 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 7
+[15-Oct-2023 21:53:24 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:7
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 7
+[15-Oct-2023 21:54:43 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 10
+[15-Oct-2023 22:05:11 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/Agregar_usuario.php:270
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/Agregar_usuario.php on line 270
+[15-Oct-2023 22:07:04 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/Agregar_usuario.php:270
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/Agregar_usuario.php on line 270
+[15-Oct-2023 22:09:10 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/Agregar_usuario.php:270
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/Agregar_usuario.php on line 270
+[15-Oct-2023 22:09:43 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/Agregar_usuario.php:270
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/Agregar_usuario.php on line 270
+[15-Oct-2023 22:15:14 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 29
+[15-Oct-2023 22:15:28 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 29
+[15-Oct-2023 22:16:01 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 10
+[15-Oct-2023 22:16:10 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 10
+[15-Oct-2023 22:16:14 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 10
+[15-Oct-2023 22:17:15 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 28
+[15-Oct-2023 22:17:24 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 10
+[15-Oct-2023 22:17:27 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 10
+[15-Oct-2023 22:17:31 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 10
+[15-Oct-2023 22:18:44 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 11
+[15-Oct-2023 22:18:46 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 11
+[15-Oct-2023 22:20:11 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 28
+[15-Oct-2023 22:20:16 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 12
+[15-Oct-2023 22:21:57 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 12
+[15-Oct-2023 22:23:04 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 28
+[15-Oct-2023 22:23:10 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 12
+[15-Oct-2023 22:23:49 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 13
+[15-Oct-2023 22:25:22 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 28
+[15-Oct-2023 22:25:27 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 13
+[15-Oct-2023 22:27:40 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 13
+[15-Oct-2023 22:28:13 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 28
+[15-Oct-2023 22:29:33 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 13
+[15-Oct-2023 22:29:45 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 27
+[15-Oct-2023 22:29:49 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 13
+[15-Oct-2023 22:35:36 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 29
+[15-Oct-2023 22:36:32 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 29
+[15-Oct-2023 22:53:25 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:53:25 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:53:25 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:53:27 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:53:27 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:53:27 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:53:29 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:53:29 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:53:29 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:53:30 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:53:30 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:53:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:54:08 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:54:08 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:54:08 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:54:09 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:54:09 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:54:09 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:55:17 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:55:17 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:55:17 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:55:18 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:55:18 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:55:18 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:57:38 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:57:38 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:57:38 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:57:39 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:57:39 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:57:39 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[15-Oct-2023 22:57:40 America/Santiago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 12
+[15-Oct-2023 22:57:40 America/Santiago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 15
+[15-Oct-2023 22:57:40 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php:15) in /home4/cge93624/public_html/sentinelWeb/pages/Estado_usuario.php on line 21
+[18-Oct-2023 16:04:06 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/Editar_usuario.php on line 8
+[18-Oct-2023 22:25:53 America/Santiago] PHP Warning:  move_uploaded_file(ruta/de/tu/directorio/imagenes/CM20190624-29d33-96be8.jpg): failed to open stream: No such file or directory in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 13
+[18-Oct-2023 22:25:53 America/Santiago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJLD7ka' to 'ruta/de/tu/directorio/imagenes/CM20190624-29d33-96be8.jpg' in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 13
+[18-Oct-2023 22:28:09 America/Santiago] PHP Warning:  move_uploaded_file(ruta/de/tu/directorio/imagenes/CM20190624-29d33-96be8.jpg): failed to open stream: No such file or directory in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 13
+[18-Oct-2023 22:28:09 America/Santiago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7wPRXa' to 'ruta/de/tu/directorio/imagenes/CM20190624-29d33-96be8.jpg' in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 13
+[18-Oct-2023 22:28:20 America/Santiago] PHP Warning:  move_uploaded_file(ruta/de/tu/directorio/imagenes/CM20190624-29d33-96be8.jpg): failed to open stream: No such file or directory in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 13
+[18-Oct-2023 22:28:20 America/Santiago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9YpNOC' to 'ruta/de/tu/directorio/imagenes/CM20190624-29d33-96be8.jpg' in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 13
+[18-Oct-2023 22:29:47 America/Santiago] PHP Warning:  move_uploaded_file(../images/CM20190624-29d33-96be8.jpg): failed to open stream: No such file or directory in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 13
+[18-Oct-2023 22:29:47 America/Santiago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHU7znu' to '../images/CM20190624-29d33-96be8.jpg' in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 13
+[18-Oct-2023 22:30:16 America/Santiago] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 23
+[18-Oct-2023 22:30:16 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 23
+[18-Oct-2023 22:30:43 America/Santiago] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 24
+[18-Oct-2023 22:30:43 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 24
+[19-Oct-2023 13:56:41 America/Santiago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[19-Oct-2023 13:56:43 America/Santiago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[19-Oct-2023 13:56:44 America/Santiago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[19-Oct-2023 13:56:46 America/Santiago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[19-Oct-2023 14:19:19 America/Santiago] PHP Warning:  move_uploaded_file(/IMAGES/CM20190624-29d33-96be8.jpg): failed to open stream: No such file or directory in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 14
+[19-Oct-2023 14:19:19 America/Santiago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phps7Va87' to '/IMAGES/CM20190624-29d33-96be8.jpg' in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 14
+[19-Oct-2023 14:28:56 America/Santiago] PHP Warning:  mysqli_query(): Empty query in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 9
+[19-Oct-2023 14:28:56 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 11
+[19-Oct-2023 14:28:56 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 34
+[19-Oct-2023 14:29:39 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 7
+[19-Oct-2023 14:29:39 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 30
+[19-Oct-2023 14:30:30 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 7
+[19-Oct-2023 14:30:30 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 30
+[19-Oct-2023 14:33:08 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 19
+[19-Oct-2023 14:37:34 America/Santiago] PHP Warning:  move_uploaded_file(images/CM20190624-29d33-96be8.jpg): failed to open stream: No such file or directory in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 19
+[19-Oct-2023 14:37:34 America/Santiago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0G1Qsh' to 'images/CM20190624-29d33-96be8.jpg' in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 19
+[19-Oct-2023 14:43:02 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 25
+[19-Oct-2023 14:46:15 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_maquina.php on line 25
+[19-Oct-2023 15:09:11 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/Editar_usuario.php on line 8
+[19-Oct-2023 15:13:06 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/Editar_usuario.php on line 8
+[19-Oct-2023 15:20:38 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/Editar_maquina.php on line 8
+[19-Oct-2023 15:21:16 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/Editar_maquina.php on line 8
+[19-Oct-2023 15:21:21 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/Editar_maquina.php on line 8
+[19-Oct-2023 15:22:35 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/Editar_maquina.php on line 8
+[19-Oct-2023 15:23:02 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/Editar_maquina.php on line 8
+[19-Oct-2023 15:51:42 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 36
+[19-Oct-2023 15:51:45 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function conexion() in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php:36
+Stack trace:
+#0 {main}
+  thrown in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 36
+[19-Oct-2023 15:52:11 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 57
+[19-Oct-2023 15:52:11 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 57
+[19-Oct-2023 15:52:48 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[19-Oct-2023 15:52:48 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[19-Oct-2023 16:54:51 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 29
+[24-Oct-2023 13:00:47 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 13:00:47 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:04:20 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:04:20 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:06:42 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:06:42 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:08:01 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:08:01 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:08:11 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:08:11 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:08:56 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:08:56 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:12:52 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:12:52 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:08 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:08 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:29 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:29 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:31 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:31 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:36 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:36 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:40 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 20:13:40 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:42:09 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:42:09 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:16 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:16 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:24 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:24 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:41 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:41 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:45 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:45 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:53 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:53 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:54 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:54 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:55 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:43:55 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:44:01 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:44:01 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:44:07 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:44:07 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:44:09 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[24-Oct-2023 23:44:09 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 00:25:35 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 00:25:35 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:41:44 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:41:44 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:43:14 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:43:14 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:43:22 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:43:22 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:43:25 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:43:25 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:44:57 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:44:57 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:44:59 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:44:59 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:45:00 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:45:00 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:45:02 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 01:45:02 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 17:01:34 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 17:01:34 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 17:13:45 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 17:13:45 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 17:31:14 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 17:31:14 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 17:31:20 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 17:31:20 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 23:35:29 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[25-Oct-2023 23:35:29 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:12:45 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:12:45 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:13:10 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 29
+[26-Oct-2023 17:17:00 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:17:00 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:37:33 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:37:33 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:37:33 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:37:33 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:37:44 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:37:44 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:39:59 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 17:39:59 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 23:31:04 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[26-Oct-2023 23:31:04 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[27-Oct-2023 00:18:59 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 13
+[27-Oct-2023 00:19:10 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 13
+[27-Oct-2023 00:19:13 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/Eliminar_usuario.php on line 13
+[27-Oct-2023 00:39:19 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[27-Oct-2023 00:39:19 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[27-Oct-2023 00:55:03 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[27-Oct-2023 00:55:03 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[27-Oct-2023 01:03:19 America/Santiago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php:1) in /home4/cge93624/public_html/sentinelWeb/pages/procesar_usuario.php on line 29
+[27-Oct-2023 01:04:24 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[27-Oct-2023 01:04:24 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[28-Oct-2023 15:33:37 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[28-Oct-2023 15:33:37 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[28-Oct-2023 15:33:40 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[28-Oct-2023 15:33:40 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[28-Oct-2023 23:42:11 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[28-Oct-2023 23:42:11 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[29-Oct-2023 23:50:22 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[29-Oct-2023 23:50:22 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[29-Oct-2023 23:50:32 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[29-Oct-2023 23:50:32 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[30-Oct-2023 16:18:33 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[30-Oct-2023 16:18:33 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[30-Oct-2023 16:48:26 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[30-Oct-2023 16:48:26 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[31-Oct-2023 16:58:29 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[31-Oct-2023 16:58:29 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[31-Oct-2023 17:48:57 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[31-Oct-2023 17:48:57 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[31-Oct-2023 17:49:05 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[31-Oct-2023 17:49:05 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[31-Oct-2023 17:49:07 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[31-Oct-2023 17:49:07 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:48:09 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:48:09 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:48:32 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:48:32 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:48:42 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:48:42 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:48:51 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:48:51 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:49:15 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[01-Nov-2023 22:49:15 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[13-Nov-2023 16:01:44 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:44 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[13-Nov-2023 16:01:44 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[13-Nov-2023 16:01:45 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:46 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:47 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:47 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:47 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:47 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:47 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[13-Nov-2023 16:01:48 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
+[16-Nov-2023 21:41:30 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[16-Nov-2023 21:41:30 America/Santiago] PHP Warning:  str_replace() expects at least 3 parameters, 1 given in /home4/cge93624/public_html/sentinelWeb/pages/Gestor_accidentes.php on line 290
+[16-Nov-2023 21:41:32 America/Santiago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home4/cge93624/public_html/sentinelWeb/pages/tables.php on line 275
